@@ -1,8 +1,8 @@
-**User Script Manager**
+## User Script Manager
 
-- [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-- [OrangeMonkey](https://chromewebstore.google.com/detail/orangemonkey-pro/ggdmdoodcfamjggeigifpjfnnjfbland)
-- [ViolentMonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
+**ViolentMonkey**
+
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
 
 ## [INSTALL COMBINED](https://github.com/fischlrock/APClassroom-answers/raw/refs/heads/main/aio.user.js)
 
